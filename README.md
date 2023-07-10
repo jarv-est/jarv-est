@@ -2,7 +2,7 @@
 
 Hello there, my name is Aurora (she/her or they/them) and I'm an Astronomer graduate from Pontificia Universidad Catolica de Chile (Santiago), with a Diploma in Data Science and Engineering from Universidad de Chile. I'm fluent in Spanish and English, with some past experience in Japanese and Latin.
 
-I have a very special interest in exoplanet characterization, astrobiology, data science, machine learning and AIs. Currently I'm learning about web programming & design (Javascript, React).
+I have a very special interest in exoplanet characterization, astrobiology, data science, machine learning and AIs. Currently I'm learning about web programming & design.
 
 
 <!---
