@@ -2,7 +2,7 @@
 
 Welcome, I'm an Astronomer graduate from Pontificia Universidad Catolica de Chile (Santiago), with a Diploma in Data Science and Engineering from Universidad de Chile. I'm fluent in Spanish and English, with some past experience in Japanese and Latin.
 
-I have a very special interest in exoplanet characterization, astrobiology, data science, machine learning and AIs. 
+I have a very special interest in exoplanet characterization, astrobiology, data science, machine learning and AIs. Have done some proyects related to these topics, nothing too big, but it was nice developing them.
 
 
 <!---
